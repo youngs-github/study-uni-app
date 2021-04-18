@@ -1,0 +1,1 @@
+<view class="backtop-wrapper" style="{{'display:'+(backtop?'block':'none')+';'}}"><view data-event-opts="{{[['tap',[['onclick',['$event']]]]]}}" class="box" bindtap="__e"><uni-icon class="icon" vue-id="1cbfa3b1-1" type="arrowthinup" title="回顶部" bind:__l="__l"></uni-icon></view></view>

@@ -1,0 +1,87 @@
+{
+  "pages": [
+    {
+      "path": "pages/m-home/index",
+      "style": {
+        "app-plus": {
+          "pullToRefresh": {
+            "color": "#ff3333",
+            "contentdown": {
+              "caption": "下拉刷新"
+            },
+            "contentover": {
+              "caption": "释放刷新"
+            },
+            "contentrefresh": {
+              "caption": "正在刷新"
+            }
+          }
+        },
+        "navigationBarTitleText": "",
+        "enablePullDownRefresh": true
+      }
+    },
+    {
+      "path": "pages/m-cart/index",
+      "style": {
+        "navigationBarTitleText": "",
+        "enablePullDownRefresh": false
+      }
+    },
+    {
+      "path": "pages/m-cate/index",
+      "style": {
+        "navigationBarTitleText": "",
+        "enablePullDownRefresh": false
+      }
+    },
+    {
+      "path": "pages/m-user/index",
+      "style": {
+        "navigationBarTitleText": "",
+        "enablePullDownRefresh": false
+      }
+    }
+  ],
+  "tabBar": {
+    "color": "#888",
+    "selectedColor": "#ff230f",
+    "borderStyle": "white",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/m-home/index",
+        "iconPath": "static/tabbar/m-home-icon.png",
+        "selectedIconPath": "static/tabbar/m-home-icon-active.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/m-cate/index",
+        "iconPath": "static/tabbar/m-cate-icon.png",
+        "selectedIconPath": "static/tabbar/m-cate-icon-active.png",
+        "text": "分类"
+      },
+      {
+        "pagePath": "pages/m-cart/index",
+        "iconPath": "static/tabbar/m-cart-icon.png",
+        "selectedIconPath": "static/tabbar/m-cart-icon-active.png",
+        "text": "购物车"
+      },
+      {
+        "pagePath": "pages/m-user/index",
+        "iconPath": "/static/tabbar/m-user-icon.png",
+        "selectedIconPath": "static/tabbar/m-user-icon-active.png",
+        "text": "我"
+      }
+    ]
+  },
+  "globalStyle": {
+    "app-plus": {
+      "titleNView": false
+    },
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  }
+}

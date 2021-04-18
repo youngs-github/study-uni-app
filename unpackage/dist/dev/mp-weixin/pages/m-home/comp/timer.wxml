@@ -1,0 +1,1 @@
+<view class="timer-wrapper"><text class="text">{{text}}</text><text class="item">{{timer.h}}</text><text class="sepa">:</text><text class="item">{{timer.m}}</text><text class="sepa">:</text><text class="item">{{timer.s}}</text></view>

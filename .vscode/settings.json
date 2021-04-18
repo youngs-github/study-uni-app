@@ -1,0 +1,7 @@
+{
+  "vetur.format.scriptInitialIndent": true,
+  "vetur.format.styleInitialIndent": true,
+  "prettier.jsxSingleQuote": true,
+  "prettier.singleQuote": true,
+  "prettier.vueIndentScriptAndStyle": true
+}

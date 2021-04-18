@@ -1,0 +1,19 @@
+.cart-wrapper {
+  height: 100%;
+}
+.cart-wrapper .result {
+  margin-top: 15px;
+}
+.cart-wrapper .result .item {
+  height: 46px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  padding: 0 20px;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-justify-content: space-around;
+          justify-content: space-around;
+}
+

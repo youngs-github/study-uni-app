@@ -1,0 +1,12 @@
+.home-wrapper {
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 50px;
+  position: fixed;
+  background-color: #f6f6f6;
+}
+.home-wrapper .scroll-box {
+  height: 100%;
+}
+

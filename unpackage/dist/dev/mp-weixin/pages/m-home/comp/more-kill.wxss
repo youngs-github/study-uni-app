@@ -1,0 +1,106 @@
+.more-kill-wrapper {
+  height: 265px;
+  margin: 10px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-border-radius: 6px;
+          border-radius: 6px;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  background-color: #fff;
+}
+.more-kill-wrapper .row-box {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1 1 50%;
+          flex: 1 1 50%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  padding: 5px 12px;
+}
+.more-kill-wrapper .span_2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-basis: 50%;
+          flex-basis: 50%;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+}
+.more-kill-wrapper .span_4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-basis: 50%;
+          flex-basis: 50%;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+}
+.more-kill-wrapper .span_2_title {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  font-size: 16px;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+}
+.more-kill-wrapper .main-title {
+  font-weight: 600;
+}
+.more-kill-wrapper .meta-title {
+  color: #666771;
+  font-size: 14px;
+}
+.more-kill-wrapper .span_2_images {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  padding: 10px 0;
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+          flex-grow: 1;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+.more-kill-wrapper .span_2_images .image {
+  width: 66px;
+  height: 66px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.more-kill-wrapper .span_4_title {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  font-size: 16px;
+  margin-top: 5px;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+}
+.more-kill-wrapper .span_4_images {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+.more-kill-wrapper .span_4_images .image {
+  width: 66px;
+  height: 66px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+

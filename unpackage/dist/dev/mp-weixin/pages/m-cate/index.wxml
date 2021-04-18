@@ -1,0 +1,1 @@
+<view class="cate-wrapper"><button type="primary" data-event-opts="{{[['tap',[['onclick',['$event']]]]]}}" bindtap="__e">图片识别</button></view>

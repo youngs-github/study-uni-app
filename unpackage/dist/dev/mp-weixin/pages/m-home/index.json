@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "back-top": "/pages/m-home/comp/backtop",
+    "top-hots": "/pages/m-home/comp/top-hot",
+    "quick-nav": "/pages/m-home/comp/quick-nav",
+    "sec-kill": "/pages/m-home/comp/sec-kill",
+    "more-kill": "/pages/m-home/comp/more-kill",
+    "rec-floor": "/pages/m-home/comp/rec-floor"
+  }
+}

@@ -1,0 +1,1 @@
+<view class="cart-wrapper"><button type="primary" data-event-opts="{{[['tap',[['onclick',['$event']]]]]}}" bindtap="__e">选择图片</button><view class="result"><block wx:for="{{list}}" wx:for-item="item" wx:for-index="i" wx:key="i"><view class="item"><view class="_p">{{"关键字："+item.keyword}}</view><view class="_p">{{"得分："+item.score}}</view></view></block></view></view>
